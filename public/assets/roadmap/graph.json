@@ -1,0 +1,141 @@
+{
+    "id": "(ALL, ALL)",
+    
+    "children": [{
+      "id": "partition on row",
+      
+      "children": [{
+        "id": "(tab1row1, ALL)",
+        
+        "children": [{
+          "id": "(tab1row1, tab1col1)"
+          
+        }, {
+          "id": "(tab1row1, tab1col2)"
+          
+        }, {
+          "id": "(tab1row1, tab1col3)"
+          
+        }, {
+          "id": "(tab1row1, tab1col4)"
+          
+        }]
+      }, {
+        "id": "(tab1row2, ALL)",
+        
+        "children": [{
+          "id": "(tab1row2, tab1col1)"
+          
+        }, {
+          "id": "(tab1row2, tab1col2)"
+          
+        }, {
+          "id": "(tab1row2, tab1col3)"
+          
+        }, {
+          "id": "(tab1row2, tab1col4)"
+          
+        }]
+      }, {
+        "id": "(tab1row3, ALL)",
+        
+        "children": [{
+          "id": "(tab1row3, tab1col1)"
+          
+        }, {
+          "id": "(tab1row3, tab1col2)"
+          
+        }, {
+          "id": "(tab1row3, tab1col3)"
+          
+        }, {
+          "id": "(tab1row3, tab1col4)"
+          
+        }]
+      }, {
+        "id": "(tab1row4, ALL)",
+        
+        "children": [{
+          "id": "(tab1row4, tab1col1)"
+          
+        }, {
+          "id": "(tab1row4, tab1col2)"
+          
+        }, {
+          "id": "(tab1row4, tab1col3)"
+          
+        }, {
+          "id": "(tab1row4, tab1col4)"
+          
+        }]
+      }]
+    }, {
+      "id": "partition on col.",
+      
+      "children": [{
+        "id": "(ALL, tab1col1)",
+        
+        "children": [{
+          "id": "(tab1col1, tab1row1)"
+          
+        }, {
+          "id": "(tab1col1, tab1row2)"
+          
+        }, {
+          "id": "(tab1col1, tab1row3)"
+          
+        }, {
+          "id": "(tab1col1, tab1row4)"
+          
+        }]
+      }, {
+        "id": "(ALL, tab1col2)",
+        
+        "children": [{
+          "id": "(tab1col2, tab1row1)"
+          
+        }, {
+          "id": "(tab1col2, tab1row2)"
+          
+        }, {
+          "id": "(tab1col2, tab1row3)"
+          
+        }, {
+          "id": "(tab1col2, tab1row4)"
+          
+        }]
+      }, {
+        "id": "(ALL, tab1col3)",
+        
+        "children": [{
+          "id": "(tab1col3, tab1row1)"
+          
+        }, {
+          "id": "(tab1col3, tab1row2)"
+          
+        }, {
+          "id": "(tab1col3, tab1row3)"
+          
+        }, {
+          "id": "(tab1col3, tab1row4)"
+          
+        }]
+      }, {
+        "id": "(ALL, tab1col4)",
+        
+        "children": [{
+          "id": "(tab1col4, tab1row1)"
+          
+        }, {
+          "id": "(tab1col4, tab1row2)"
+          
+        }, {
+          "id": "(tab1col4, tab1row3)"
+          
+        }, {
+          "id": "(tab1col4, tab1row4)"
+          
+        }]
+      }]
+    }]
+  }

@@ -32,7 +32,7 @@ const createChatElement = (content, className) => {
 }
 
 const getChatResponse = async (incomingChatDiv) => {
-  const API_URL = "http://13.235.78.28:5000/chatbot";
+  const API_URL = "http://100.26.139.151:5000/chatbot";
   const pElement = document.createElement("p");
 
   // Define the properties and data for the API request
